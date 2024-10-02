@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+  <html>
+<head>
+    <meta charset="UTF-8">
+    <title>Pravs</title>
+    <style>
+      bgcolor:yellow
+      footer{
+        text-align: center;
+            padding: 5px;
+            background-color: #abbaba;
+            color: #000;
+      }
+     
+    </style>
+</head>
+<body>
+  <h1>Sriram Pravallika</h1>
+  <img src="image.png" height="200">
+  <h3>Summary</h3>  I am a hardworking and dedicated individual with experience in customer service and administration.
+  <hr>
+  <h2>Education</h2>
+  My highest education is Intermediate </br>
+  Current cgpa:9.9</br>
+  University:KL University</br>
+<hr>
+  <h2>Work experience</h2>
+  I have no work experience.</br>
+  Yet ,Seeking for software internships.</br>
+<hr>
+  <h2>Skills</h2>
+  Team Leadership: ⭐️⭐️⭐️⭐️⭐️</br>
+  Presentation:⭐️⭐️⭐️⭐️</br>
+  Speaking :⭐️⭐️⭐️</br>
+<hr>
+  <h2>Other</h2>
+  <a href="./Hobbies.html">Hobbies</a></br>
+  <a href="./Contactme.html">Contact Me</a>
+  <footer>
+    <p>&copy; 2024 Sriram Pravallika</p>
+</footer>
+</body>
+
+  </html>
+  
